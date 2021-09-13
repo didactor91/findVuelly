@@ -20,7 +20,8 @@
     "*": "prettier -w -u"
   },
   "dependencies": {
-    "vue": "^3.2.6"
+    "vue": "^3.2.6",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@types/node": "^16.9.1",
